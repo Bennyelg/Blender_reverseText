@@ -1,3 +1,3 @@
 # Blender_reverseText
 Fix the problem of the hebrew chars
-sd
+[More info]: http://forum.blender.org.il/showthread.php?tid=766
